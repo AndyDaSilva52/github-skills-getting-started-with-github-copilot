@@ -85,6 +85,11 @@ section h3 {
   color: #555;
 }
 
+.participant {
+  font-style: italic;
+  color: #777;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
